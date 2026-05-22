@@ -5,7 +5,7 @@ This project demostrates a comprehesive data warehousing and analitycs solution,
 
 ---
 
-## <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/1ae9c976-d441-4788-ac57-4dda4fef8e59" />
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/1ae9c976-d441-4788-ac57-4dda4fef8e59" />
 Project Requirements
 
 ## Building the Data Warehouse (Data Engineering)
