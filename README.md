@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the ** Data Warehouse and Analytics Project ** repository!
+Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demostrates a comprehesive data warehousing and analitycs solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
 ---
@@ -32,7 +32,7 @@ These insights empower stakholders with key business metrics, enabling strategic
 
 ---
 
-#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2eb114c0-ce58-4b63-9eab-f72981ad2da7" /> License
+#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fd75debb-8306-44cf-b617-e43b7f0445f4" /> License
 This project is licensed under the MIT License. You are free to use, modify moreover share this project with proper attribution.
 
 #### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a588f8dd-5cd5-451b-b358-c638ee755464" /> About me
