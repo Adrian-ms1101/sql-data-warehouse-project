@@ -28,3 +28,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
+These insights empower stakholders with key business metrics, enabling strategic desicion-making.
+
+---
+
+#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2eb114c0-ce58-4b63-9eab-f72981ad2da7" /> License
+This project is licensed under the MIT License. You are free to use, modify moreover share this project with proper attribution.
+
+#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a588f8dd-5cd5-451b-b358-c638ee755464" /> About me
+Hi Folks! I'm Adrian Martinez. Currently, I am a Business Analytics creating SQL scripts, ETL's Apache Airflow with python, based on Cloud SQL,  Big Query and even On-Premise to improve all the tasks in the area. 
+My goal is becoming a full Data Engineer, so this is my firts personal data warehouse project.
