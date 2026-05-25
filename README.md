@@ -36,5 +36,5 @@ These insights empower stakholders with key business metrics, enabling strategic
 This project is licensed under the MIT License. You are free to use, modify moreover share this project with proper attribution.
 
 #### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a588f8dd-5cd5-451b-b358-c638ee755464" /> About me
-Hi Folks! I'm Adrian Martinez. Currently, I am a Business Analytics creating SQL scripts, ETL's Apache Airflow with python, based on Cloud SQL,  Big Query and even On-Premise to improve all the tasks in the area. 
+Hi Folks! I'm Adrian Martinez. Currently, I am a Business Analytics creating SQL scripts, ETL's Apache Airflow with python, based on Cloud SQL,  Big Query and even On-Prem to improve all the tasks in the area. 
 My goal is becoming a full Data Engineer, so this is my firts personal data warehouse project.
